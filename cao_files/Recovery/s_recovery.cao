@@ -1,0 +1,76 @@
+game_mode null
+
+win_streak 0
+loose_streak 0
+
+username null
+user_money null
+user_level null
+user_xp null
+
+user_side null
+enemy_side null
+
+user_team_number null
+enemy_team_number null
+
+trader_show false
+
+user_order_items_health_potion null
+user_order_items_elixir null
+user_order_items_mega_strike null
+user_order_items_smoke null
+user_order_items_speed_booster null
+user_order_items_speed_decreaser null
+
+
+
+user_chaos_items_number null
+
+
+
+user_order_health_constant null
+user_order_health_current null
+user_order_attack_constant null
+user_order_attack_current null
+user_order_speed_constant null
+user_order_speed_current null
+
+
+
+user_chaos_health_constant null
+user_chaos_health_current null
+user_chaos_attack_constant_start null
+user_chaos_attack_constant_end null
+user_chaos_attack_current_start null
+user_chaos_attack_current_end null
+user_chaos_speed_constant_start null
+user_chaos_speed_constant_end null
+user_chaos_speed_current_start null
+user_chaos_speed_current_end null
+
+
+
+enemy_order_health_constant null
+enemy_order_health_current null
+enemy_order_attack_constant null
+enemy_order_attack_current null
+enemy_order_speed_constant null
+enemy_order_speed_current null
+
+
+
+enemy_chaos_health_constant null
+enemy_chaos_health_current null
+enemy_chaos_attack_constant_start null
+enemy_chaos_attack_constant_end null
+enemy_chaos_attack_current_start null
+enemy_chaos_attack_current_end null
+enemy_chaos_speed_constant_start null
+enemy_chaos_speed_constant_end null
+enemy_chaos_speed_current_start null
+enemy_chaos_speed_current_end null
+
+
+
+
